@@ -1,0 +1,21 @@
+*{
+    font-family: Verdana, Dejavu Sans, sans-serif;
+    color: #000000;
+}
+.general, .once{
+    background-color: #FFA7A7;
+}
+
+#one{
+    color: #0000FF;
+    font-size: 36px;
+}
+
+.once{
+    font-size: 24px;
+}
+
+#another{
+    background-color: #80FF80;
+    font-weight: 700;
+}

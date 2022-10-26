@@ -1,0 +1,14 @@
+*{
+    font-size: 28px;
+    font-family: Helvetica, Times New Roman, sans-serif;
+}
+
+#first{
+    color: #FFFFFF;
+    background-color: #000000;
+}
+
+#second{
+    color: #000000;
+    background-color: #E1E100;
+}
